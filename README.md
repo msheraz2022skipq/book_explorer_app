@@ -19,24 +19,24 @@ The app is designed with a clean and user-friendly interface, making it easy for
 
 ### Desktop View
 
-![Desktop View](desktop-view.png)
+![Desktop View](desktop_mode.JPG)
 
 ### Mobile View
 
-![Mobile View](mobile-view.png)
+![Mobile View](mobile_mode.JPG)
 
 ## How to Run
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/msheraz2022skipq/Book-Explorer.git
+   git clone https://github.com/msheraz2022skipq/book_explorer_app.git
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd your-repo-name
+   cd book-explorer
    ```
 
 3. Install dependencies:
