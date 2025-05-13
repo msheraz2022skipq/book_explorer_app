@@ -59,6 +59,3 @@ The app is designed with a clean and user-friendly interface, making it easy for
 - Google Books API
 - CSS for styling
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
